@@ -14,20 +14,7 @@ This repository contains my hands-on implementations and experiments with variou
 ---
 ## 📁 Project Structure
 
-deep-generative-models/
-│
-├── vae-celeba/
-│ ├── train.py
-│ ├── model.py
-│ └── README.md
-│
-├── gan-mnist/
-│ ├── train.py
-│ ├── generator.py
-│ ├── discriminator.py
-│ └── README.md
-│
-└── README.md
+
 ---
 ### 🔧 Requirements
 
